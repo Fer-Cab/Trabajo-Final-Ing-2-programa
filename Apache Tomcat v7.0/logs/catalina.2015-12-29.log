@@ -1,0 +1,180 @@
+dic 29, 2015 10:38:34 AM org.apache.catalina.core.AprLifecycleListener init
+INFORMACIÓN: La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: C:\Program Files\Java\jdk1.7.0_80\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\fernando.cabrera\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\fernando.cabrera\bin;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5;C:\Program Files (x86)\Security Innovation\SI TSS\bin;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.7.0_80;C:\Program Files\Maven\apache-maven-3.3.3\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;.
+dic 29, 2015 10:38:34 AM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 10:38:34 AM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 10:38:34 AM org.apache.catalina.startup.Catalina load
+INFORMACIÓN: Initialization processed in 936 ms
+dic 29, 2015 10:38:34 AM org.apache.catalina.core.StandardService startInternal
+INFORMACIÓN: Arrancando servicio Catalina
+dic 29, 2015 10:38:34 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMACIÓN: Starting Servlet Engine: Apache Tomcat/7.0.47
+dic 29, 2015 10:38:34 AM org.apache.catalina.startup.HostConfig deployWAR
+INFORMACIÓN: Despliegue del archivo C:\Program Files\Apache Tomcat v7.0\webapps\prueba.war de la aplicación web
+dic 29, 2015 10:38:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\docs de la aplicación web
+dic 29, 2015 10:38:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\examples de la aplicación web
+dic 29, 2015 10:38:37 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\host-manager de la aplicación web
+dic 29, 2015 10:38:38 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\manager de la aplicación web
+dic 29, 2015 10:38:38 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\ROOT de la aplicación web
+dic 29, 2015 10:38:38 AM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 10:38:38 AM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 10:38:38 AM org.apache.catalina.startup.Catalina start
+INFORMACIÓN: Server startup in 3326 ms
+dic 29, 2015 10:52:29 AM org.apache.catalina.core.AprLifecycleListener init
+INFORMACIÓN: La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: C:\Program Files\Java\jdk1.7.0_80\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;c:\Program Files (x86)\AMD APP\bin\x86_64;c:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files (x86)\Security Innovation\SI TSS\bin\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.7.0_80;C:\Program Files\Maven\apache-maven-3.3.3\bin;.
+dic 29, 2015 10:52:29 AM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 10:52:29 AM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 10:52:29 AM org.apache.catalina.startup.Catalina load
+INFORMACIÓN: Initialization processed in 407 ms
+dic 29, 2015 10:52:29 AM org.apache.catalina.core.StandardService startInternal
+INFORMACIÓN: Arrancando servicio Catalina
+dic 29, 2015 10:52:29 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMACIÓN: Starting Servlet Engine: Apache Tomcat/7.0.47
+dic 29, 2015 10:52:29 AM org.apache.catalina.startup.HostConfig deployWAR
+INFORMACIÓN: Despliegue del archivo C:\Program Files\Apache Tomcat v7.0\webapps\prueba.war de la aplicación web
+dic 29, 2015 10:52:30 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\docs de la aplicación web
+dic 29, 2015 10:52:30 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\examples de la aplicación web
+dic 29, 2015 10:52:30 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\host-manager de la aplicación web
+dic 29, 2015 10:52:31 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\manager de la aplicación web
+dic 29, 2015 10:52:31 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\ROOT de la aplicación web
+dic 29, 2015 10:52:31 AM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 10:52:31 AM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 10:52:31 AM org.apache.catalina.startup.Catalina start
+INFORMACIÓN: Server startup in 1279 ms
+dic 29, 2015 10:57:40 AM org.apache.catalina.core.AprLifecycleListener init
+INFORMACIÓN: La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: C:\Program Files\Java\jdk1.7.0_80\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;c:\Program Files (x86)\AMD APP\bin\x86_64;c:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files (x86)\Security Innovation\SI TSS\bin\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.7.0_80;C:\Program Files\Maven\apache-maven-3.3.3\bin;.
+dic 29, 2015 10:57:40 AM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 10:57:40 AM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 10:57:40 AM org.apache.catalina.startup.Catalina load
+INFORMACIÓN: Initialization processed in 415 ms
+dic 29, 2015 10:57:40 AM org.apache.catalina.core.StandardService startInternal
+INFORMACIÓN: Arrancando servicio Catalina
+dic 29, 2015 10:57:40 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMACIÓN: Starting Servlet Engine: Apache Tomcat/7.0.47
+dic 29, 2015 10:57:40 AM org.apache.catalina.startup.HostConfig deployWAR
+INFORMACIÓN: Despliegue del archivo C:\Program Files\Apache Tomcat v7.0\webapps\prueba.war de la aplicación web
+dic 29, 2015 10:57:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\docs de la aplicación web
+dic 29, 2015 10:57:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\examples de la aplicación web
+dic 29, 2015 10:57:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\host-manager de la aplicación web
+dic 29, 2015 10:57:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\manager de la aplicación web
+dic 29, 2015 10:57:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\ROOT de la aplicación web
+dic 29, 2015 10:57:41 AM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 10:57:41 AM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 10:57:41 AM org.apache.catalina.startup.Catalina start
+INFORMACIÓN: Server startup in 1360 ms
+dic 29, 2015 10:59:37 AM org.apache.catalina.core.AprLifecycleListener init
+INFORMACIÓN: La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: C:\Program Files\Java\jdk1.7.0_80\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;c:\Program Files (x86)\AMD APP\bin\x86_64;c:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files (x86)\Security Innovation\SI TSS\bin\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.7.0_80;C:\Program Files\Maven\apache-maven-3.3.3\bin;.
+dic 29, 2015 10:59:37 AM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 10:59:37 AM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 10:59:37 AM org.apache.catalina.startup.Catalina load
+INFORMACIÓN: Initialization processed in 395 ms
+dic 29, 2015 10:59:37 AM org.apache.catalina.core.StandardService startInternal
+INFORMACIÓN: Arrancando servicio Catalina
+dic 29, 2015 10:59:37 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMACIÓN: Starting Servlet Engine: Apache Tomcat/7.0.47
+dic 29, 2015 10:59:37 AM org.apache.catalina.startup.HostConfig deployWAR
+INFORMACIÓN: Despliegue del archivo C:\Program Files\Apache Tomcat v7.0\webapps\prueba.war de la aplicación web
+dic 29, 2015 10:59:38 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\docs de la aplicación web
+dic 29, 2015 10:59:38 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\examples de la aplicación web
+dic 29, 2015 10:59:38 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\host-manager de la aplicación web
+dic 29, 2015 10:59:39 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\manager de la aplicación web
+dic 29, 2015 10:59:39 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\ROOT de la aplicación web
+dic 29, 2015 10:59:39 AM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 10:59:39 AM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 10:59:39 AM org.apache.catalina.startup.Catalina start
+INFORMACIÓN: Server startup in 1286 ms
+dic 29, 2015 11:07:22 AM org.apache.catalina.core.AprLifecycleListener init
+INFORMACIÓN: La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: C:\Program Files\Java\jdk1.7.0_80\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;c:\Program Files (x86)\AMD APP\bin\x86_64;c:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files (x86)\Security Innovation\SI TSS\bin\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.7.0_80;C:\Program Files\Maven\apache-maven-3.3.3\bin;.
+dic 29, 2015 11:07:23 AM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 11:07:23 AM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 11:07:23 AM org.apache.catalina.startup.Catalina load
+INFORMACIÓN: Initialization processed in 397 ms
+dic 29, 2015 11:07:23 AM org.apache.catalina.core.StandardService startInternal
+INFORMACIÓN: Arrancando servicio Catalina
+dic 29, 2015 11:07:23 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMACIÓN: Starting Servlet Engine: Apache Tomcat/7.0.47
+dic 29, 2015 11:07:23 AM org.apache.catalina.startup.HostConfig deployWAR
+INFORMACIÓN: Despliegue del archivo C:\Program Files\Apache Tomcat v7.0\webapps\prueba.war de la aplicación web
+dic 29, 2015 11:07:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\docs de la aplicación web
+dic 29, 2015 11:07:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\examples de la aplicación web
+dic 29, 2015 11:07:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\host-manager de la aplicación web
+dic 29, 2015 11:07:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\manager de la aplicación web
+dic 29, 2015 11:07:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\ROOT de la aplicación web
+dic 29, 2015 11:07:24 AM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 11:07:24 AM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 11:07:24 AM org.apache.catalina.startup.Catalina start
+INFORMACIÓN: Server startup in 1522 ms
+dic 29, 2015 2:32:17 PM org.apache.catalina.core.AprLifecycleListener init
+INFORMACIÓN: La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: C:\Program Files\Java\jdk1.7.0_80\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;c:\Program Files (x86)\AMD APP\bin\x86_64;c:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files (x86)\Security Innovation\SI TSS\bin\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.7.0_80;C:\Program Files\Maven\apache-maven-3.3.3\bin;.
+dic 29, 2015 2:32:17 PM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 2:32:17 PM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 2:32:17 PM org.apache.catalina.startup.Catalina load
+INFORMACIÓN: Initialization processed in 397 ms
+dic 29, 2015 2:32:17 PM org.apache.catalina.core.StandardService startInternal
+INFORMACIÓN: Arrancando servicio Catalina
+dic 29, 2015 2:32:17 PM org.apache.catalina.core.StandardEngine startInternal
+INFORMACIÓN: Starting Servlet Engine: Apache Tomcat/7.0.47
+dic 29, 2015 2:32:17 PM org.apache.catalina.startup.HostConfig deployWAR
+INFORMACIÓN: Despliegue del archivo C:\Program Files\Apache Tomcat v7.0\webapps\prueba.war de la aplicación web
+dic 29, 2015 2:32:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\docs de la aplicación web
+dic 29, 2015 2:32:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\examples de la aplicación web
+dic 29, 2015 2:32:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\host-manager de la aplicación web
+dic 29, 2015 2:32:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\manager de la aplicación web
+dic 29, 2015 2:32:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Program Files\Apache Tomcat v7.0\webapps\ROOT de la aplicación web
+dic 29, 2015 2:32:19 PM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["http-bio-8080"]
+dic 29, 2015 2:32:19 PM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["ajp-bio-8009"]
+dic 29, 2015 2:32:19 PM org.apache.catalina.startup.Catalina start
+INFORMACIÓN: Server startup in 1600 ms
